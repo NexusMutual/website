@@ -419,13 +419,13 @@ video:-ms-media-controls-fullscreen-button
 {
   background-image: url("../img/rox.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
-.team-ish
+.team-rei
 {
-  background-image: url("../img/ish.jpg");
+  background-image: url("../img/rei.jpg");
 }
-.team-ish:hover, .active .team-ish
+.team-rei:hover, .active .team-rei
 {
-  background-image: url("../img/ish.jpg"), linear-gradient(#56bfa6, #56bfa6);
+  background-image: url("../img/rei.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
 .team-nitika
 {
