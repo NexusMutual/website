@@ -427,13 +427,13 @@ video:-ms-media-controls-fullscreen-button
 {
   background-image: url("../img/rei.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
-.team-nitika
+.team-ricky
 {
-  background-image: url("../img/nitika.jpg");
+  background-image: url("../img/ricky.jpg");
 }
-.team-nitika:hover, .active .team-nitika
+.team-ricky:hover, .active .team-kicky
 {
-  background-image: url("../img/nitika.jpg"), linear-gradient(#56bfa6, #56bfa6);
+  background-image: url("../img/ricky.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
 
 .team-graeme
@@ -455,11 +455,11 @@ video:-ms-media-controls-fullscreen-button
 
 .team-kayleigh
 {
-  background-image: url("../img/kayleigh.jpg");
+  background-image: url("../img/kayleigh.png");
 }
 .team-kayleigh:hover, .active .team-kayleigh
 {
-  background-image: url("../img/kayleigh.jpg"), linear-gradient(#56bfa6, #56bfa6);
+  background-image: url("../img/kayleigh.png"), linear-gradient(#56bfa6, #56bfa6);
 }
 .team-steve
 {
