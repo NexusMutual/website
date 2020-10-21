@@ -413,11 +413,19 @@ video:-ms-media-controls-fullscreen-button
 }
 .team-rox
 {
-  background-image: url("../img/rox.jpg");
+  background-image: url("../img/rox.jpeg");
 }
 .team-rox:hover, .active .team-rox
 {
-  background-image: url("../img/rox.jpg"), linear-gradient(#56bfa6, #56bfa6);
+  background-image: url("../img/rox.jpeg"), linear-gradient(#56bfa6, #56bfa6);
+}
+.team-anatol
+{
+  background-image: url("../img/anatol.jpg");
+}
+.team-anatol:hover, .active .team-anatol
+{
+  background-image: url("../img/anatol.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
 .team-rei
 {
@@ -435,7 +443,14 @@ video:-ms-media-controls-fullscreen-button
 {
   background-image: url("../img/ricky.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
-
+.team-dragos
+{
+  background-image: url("../img/dragos.jpg");
+}
+.team-dragos:hover, .active .team-dragos
+{
+  background-image: url("../img/dragos.jpg"), linear-gradient(#56bfa6, #56bfa6);
+}
 .team-graeme
 {
   background-image: url("../img/graeme.jpg");
@@ -452,7 +467,14 @@ video:-ms-media-controls-fullscreen-button
 {
   background-image: url("../img/nick.jpg"), linear-gradient(#56bfa6, #56bfa6);
 }
-
+.team-dan
+{
+  background-image: url("../img/dan.jpeg");
+}
+.team-dan:hover, .active .team-dan
+{
+  background-image: url("../img/dan.jpeg"), linear-gradient(#56bfa6, #56bfa6);
+}
 .team-kayleigh
 {
   background-image: url("../img/kayleigh.png");
