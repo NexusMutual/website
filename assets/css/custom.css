@@ -582,6 +582,11 @@ video:-ms-media-controls-fullscreen-button
   background-image: url("../img/telegram.svg");
   border-radius: 3px;
 }
+.icon-forum-dark
+{
+  background-image: url("../img/forum.svg");
+  border-radius: 3px;
+}
 .form-control-border
 {
   background-color: transparent;
