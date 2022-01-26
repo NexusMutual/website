@@ -95,15 +95,6 @@ body
 {
   font-family: proxima-nova, sans-serif;
 }
-
-a {
-  color: #1eab89;
-}
-
-a:hover {
-  color: #d7fbe8;
-}
-
 .signedup {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 13px;
@@ -882,7 +873,7 @@ video:-ms-media-controls-fullscreen-button
   flex-direction: column;
   overflow: hidden;
   position: relative;
-  height: calc(110vh - 260px);
+  height: calc(110vh - 200px);
 }
 .hero .explore-btn{
   cursor: pointer;
